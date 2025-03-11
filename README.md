@@ -1,1 +1,1 @@
-# Tugas-Pak-Faruk-S2
+# SP2.1 Praktikum Algoritma dan Pemrograman
