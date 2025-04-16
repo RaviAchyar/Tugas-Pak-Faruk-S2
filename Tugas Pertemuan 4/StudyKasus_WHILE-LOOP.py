@@ -1,4 +1,4 @@
-jawaban = 7
+jawaban = 3
 tebakan = 0
 
 while tebakan != jawaban:
