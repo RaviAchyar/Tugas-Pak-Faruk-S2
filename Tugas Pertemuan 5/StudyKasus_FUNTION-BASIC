@@ -1,0 +1,28 @@
+# M RAVI ACHYAR TRISTA ZHAID
+# 1124102193
+
+def sambutan():
+    print("================================")
+    print("Selamat Datang di Aplikasi Kasir")
+    print("Silahkan pilih menu")
+    print("================================")
+
+sambutan()
+
+def tampilkan_menu():
+    print("======== MENU RESTORAN =========")
+    print("1. Nasi Goreng - Rp15.000")
+    print("2. Mie Ayam    - Rp12.000")
+    print("3. Soto Ayam   - Rp13.000")
+    print("4. Es Teh      - Rp5.000")
+    print("5. Es Jeruk    - Rp6.000")
+    print("================================")
+
+tampilkan_menu()
+
+def salam():
+    print("================================")
+    print("Terima Kasih")
+    print("================================")
+
+salam()
